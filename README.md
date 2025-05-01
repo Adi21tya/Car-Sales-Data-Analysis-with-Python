@@ -30,29 +30,6 @@ In this project, we analyze car sales data using Python to uncover trends, patte
 - **Sales Trend Analysis**: Identify seasonal trends, top-performing car models, and regions.
 - **Visualization**: Generate interactive and static plots to present findings effectively.
 
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shauryaverma03/Car-Sales-Data-Analysis-with-Python.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Car-Sales-Data-Analysis-with-Python
-   ```
-3. Create a virtual environment:
-   ```bash
-   python -m venv env
-   ```
-4. Activate the virtual environment:
-   - **Windows**: `.\env\Scripts\activate`
-   - **macOS/Linux**: `source env/bin/activate`
-5. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
@@ -113,15 +90,6 @@ Contributions are welcome! If you'd like to make this project better, please for
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### 📧 Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **GitHub**: [shauryaverma03](https://github.com/shauryaverma03)
-- **Email**: [shauryaverma03@gmail.com](mailto:shauryaverma036@gmail.com) 
 
 ---
 
