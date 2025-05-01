@@ -8,7 +8,6 @@ Welcome to the **Car Sales Data Analysis with Python** repository! This project 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
@@ -49,20 +48,6 @@ In this project, we analyze car sales data using Python to uncover trends, patte
 - **Jupyter Notebook**: Interactive environment for running and documenting the analysis.
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib/Seaborn**: Data visualization libraries.
-
----
-
-## 📂 Project Structure
-
-```
-Car-Sales-Data-Analysis-with-Python/
-│
-├── data/                     # Raw and processed datasets
-├── notebooks/                # Jupyter Notebooks for analysis
-├── visuals/                  # Generated plots and visualizations
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-```
 
 ---
 
